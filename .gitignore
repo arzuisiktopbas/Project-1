@@ -4,3 +4,4 @@ config.py
 
 .conf
 .env
+.DS_Store
