@@ -7,7 +7,7 @@
 
 In this project,  we built a notebook to forecast **portfolio based on stock earnings**. Accordingly, we explored *what factors have the greatest influence on returns based on earnings?*  We also designed a **Portfolio Forcaster Dashboard** by using Python visualizations.
 
-![image source](https://github.com/arzuisiktopbas/try/blob/main/Project_Dashboard.gif)
+![image source](https://github.com/arzuisiktopbas/Project-1/blob/main/Images/Project_Dashboard.gif)
 
 **Question #1 - Are dividends and earnings enough to construct an optimal portfolio of stocks?**
 
