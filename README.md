@@ -5,7 +5,7 @@
 
 [image source](https://www.123rf.com/photo_121955022_abstract-glowing-forex-chart-backdrop-with-grid-invest-and-trade-concept-3d-rendering.html?vti=of6pb64qajdoj322t4-1-36)
 
-In this project,  we built a notebook to forecast **portfolio based on stock earnings**. Accordingly, we explored *what factors have the greatest influence on returns based on earnings?*  We also designed a **Portfolio Forcaster Dashboard** by using Python visualizations.
+In this project,  we built a notebook to forecast **portfolio based on stock earnings**. Accordingly, we explored *what factors have the greatest influence on returns based on earnings?*  We also designed a **Portfolio Forecaster Dashboard** by using Python visualizations.
 
 ![image source](https://github.com/arzuisiktopbas/Project-1/blob/main/Images/Project_Dashboard.gif)
 
